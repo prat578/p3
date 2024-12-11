@@ -1,2 +1,6 @@
 hi
+<<<<<<< Updated upstream
 AIML
+=======
+hello
+>>>>>>> Stashed changes
